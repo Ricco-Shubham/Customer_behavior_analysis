@@ -1,0 +1,7 @@
+{
+    "db_name":"customer_behaviour",
+    "user" :"postgres",
+    "password":"qwerty12345",
+    "host":"localhost",
+    "port": "5432"
+}
